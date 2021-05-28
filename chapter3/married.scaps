@@ -1,0 +1,5 @@
+married(john).
+
+:- married(paul).
+
+?- married(X).
